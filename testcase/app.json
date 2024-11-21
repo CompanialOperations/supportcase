@@ -8,8 +8,10 @@
   "privacyStatement": "https://www.companial.com",
   "EULA": "https://www.companial.com",
   "help": "https://www.companial.com",
+  "contextSensitiveHelpUrl": "https://www.companial.com",
   "url": "https://www.companial.com",
   "logo": "./logo.png",
+  "applicationInsightsConnectionString": "InstrumentationKey=6604968b-f604-4bfe-9771-5bf00c36235b;IngestionEndpoint=https://westeurope-2.in.applicationinsights.azure.com/;LiveEndpoint=https://westeurope.livediagnostics.monitor.azure.com/;ApplicationId=b6b1c611-dcd1-4e28-824e-a90a13d6dfe8",
   "dependencies": [
     {
       "id": "b830ef47-c998-4e30-bb03-52be437f36f6",
@@ -20,7 +22,7 @@
   ],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "application": "25.0.0.0",
   "idRanges": [
     {
       "from": 70000000,
