@@ -4,6 +4,8 @@
     "OOPS"
   ],
   "appFolders": [],
-  "testFolders": [],
+  "testFolders": [
+    "testcase"
+  ],
   "bcptTestFolders": []
 }
