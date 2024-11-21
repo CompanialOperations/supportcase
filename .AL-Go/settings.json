@@ -3,9 +3,9 @@
   "appSourceCopMandatoryAffixes": [
     "OOPS"
   ],
-  "appFolders": [],
-  "testFolders": [
+  "appFolders": [
     "testcase"
   ],
+  "testFolders": [],
   "bcptTestFolders": []
 }
